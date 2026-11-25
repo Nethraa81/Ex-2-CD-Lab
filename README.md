@@ -83,7 +83,8 @@ return 0;
 ## OUTPUT
 
 
-<img width="1919" height="1005" alt="Screenshot 2026-11-18 182308" src="https://github.com/user-attachments/assets/c942841a-f57d-426c-8fae-0fbaf3fc8f7a" />
+<img width="944" height="490" alt="image" src="https://github.com/user-attachments/assets/86cbe695-ed8c-4638-aa88-dbd5d8adf6a5" />
+
 
 
 
